@@ -1,0 +1,110 @@
+[
+	{
+		"id" : 101,
+		"name":"Blue/White T-Shirt",
+		"description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+		"type": "Cotton",
+		"price": 29.99,
+		"images": [
+			{
+				"name": "hustle-ink-bluewhite.jpg"
+			}
+		]
+	},
+	{	
+		"id" : 102,
+		"name":"Burgundy/White T-Shirt",
+		"description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+		"type": "Cotton",
+		"price": 29.99,
+		"images": [
+			{
+				"name": "hustle-ink-burgundywhite.jpg"
+			}
+		]
+	},
+	{
+		"id" : 103,
+		"name":"Green/Gold T-Shirt",
+		"description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+		"type": "Cotton",
+		"price": 32.99,
+		"images": [
+			{
+				"name": "hustle-ink-greenyellow.jpg"
+			}
+		]
+	},
+	{
+		"id" : 104,
+		"name":"White/Black T-Shirt",
+		"description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+		"type": "Cotton",
+		"price": 22.99,
+		"images": [
+			{
+				"name": "hustle-ink-whiteblack.jpg"
+			}
+		]
+	},
+	{
+		"id" : 105,
+		"name":"Red/Gold T-Shirt",
+		"description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+		"type": "Cotton",
+		"price": 29.99,
+		"images": [
+			{
+				"name": "hustle-ink-redgold.jpg"
+			}
+		]
+	},
+	{
+		"id" : 106,
+		"name":"White/Burgundy T-Shirt",
+		"description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+		"type": "Cotton",
+		"price": 25.99,
+		"images": [
+				{
+					"name": "hustle-ink-whiteburgundy.jpg"
+				}
+			]
+	},
+	{
+		"id" : 107,
+		"name":"Yellow/Black T-Shirt",
+		"description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+		"type": "Cotton",
+		"price": 22.99,
+		"images": [
+			{
+				"name": "hustle-ink-yellowblack.jpg"
+			}
+		]
+	},
+	{
+		"id" : 108,
+		"name":"Blue/Yellow T-Shirt",
+		"description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+		"type": "Cotton",
+		"price": 29.99,
+		"images": [
+			{
+				"name": "hustle-ink-blueyellow.jpg"
+			}
+		]
+	},
+	{
+		"id" : 109,
+		"name":"Burgundy/Gold T-Shirt",
+		"description":"Consectetur adipiscing elit. Vestibulum condimentum turpis nec nunc scelerisque convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas id diam enim.",
+		"type": "Cotton",
+		"price": 25.99,
+		"images": [
+				{
+					"name": "hustle-ink-burgundygold.jpg"
+				}
+			]
+	}
+]
